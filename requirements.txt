@@ -1,0 +1,4 @@
+discord.py[voice]>=2.5,<3.0
+gTTS>=2.5,<3.0
+yt-dlp>=2025.1,<2027.0
+PyNaCl>=1.5,<2.0
